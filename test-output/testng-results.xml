@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T11:50:08 EET" name="Default suite" finished-at="2024-08-12T11:50:19 EET" duration-ms="10600">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T11:50:08 EET" name="Default test" finished-at="2024-08-12T11:50:19 EET" duration-ms="10600">
+      <class name="firstProjectAutomation.MyFirstTest">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:firstProjectAutomation.MyFirstTest@1b73be9f]" started-at="2024-08-12T11:50:08 EET" name="mysetup" finished-at="2024-08-12T11:50:10 EET" duration-ms="1547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="myFistTest()[pri:0, instance:firstProjectAutomation.MyFirstTest@1b73be9f]" started-at="2024-08-12T11:50:10 EET" name="myFistTest" finished-at="2024-08-12T11:50:19 EET" duration-ms="8971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myFistTest -->
+      </class> <!-- firstProjectAutomation.MyFirstTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
